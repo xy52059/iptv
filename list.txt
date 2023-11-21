@@ -1,4 +1,4 @@
-
+央视,#genre#
 VR测试片段 10M2160,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230560/index.m3u8
 SiTV欢笑剧场 15M2160,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 CCTV4K 38M2160,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
